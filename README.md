@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mathieu Matongo 
 
-<!--
-**Mathos6/Mathos6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"I write ARM assembly for fun and build websites when I need a break from memory alignments."* 🐷
 
-Here are some ideas to get you started:
+I'm a developer who likes diving deep into systems programming, low-level security, and compiler mechanics—while occasionally coming up to air to build full-stack web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 What I'm Working On
+* 🛡️ **[Quartzine](https://github.com/Mathos6/Quartzine)** – Isolating USB storage devices inside disposable VMs before they mount.
+* ⚙️ **Custom Compilers** – Building toy C++ compilers that translate custom languages into native ARM64 assembly.
+* 📜 **Low-Level Utilities** – Rebuilding classic core utilities (like `cat`) in raw ARM assembly.
+* 🌐 **Web & Automation** – Django backends, Go micro-services, and custom automation scripts.
+
+---
+
+### 🧰 Tech Stack & Environment
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Low Level & Systems** | ARM64 / ARM32 Assembly, C++, Go, Linux Internals |
+| **High Level & Web** | Python, Django, PostgreSQL, JavaScript |
+| **Daily Environment** | Debian Linux + Sway WM |
+| **Currently Studying** | 🇯🇵 Japanese (日本語) |
+
+---
+
+### 🌐 Connect With Me
+* 🏠 **Portfolio:** [mathieumatongo.netlify.app](https://mathieumatongo.netlify.app/)
+* 💼 **GitHub:** You're already here!
+
+---
+<p align="center">
+  <i>Protected by George Pig's low-level security team 🦖</i>
+</p>
