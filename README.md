@@ -8,7 +8,6 @@ I'm a developer who likes diving deep into systems programming, low-level securi
 
 ### What I'm Working On
 * **[Quartzine](https://github.com/Mathos6/Quartzine)** – Isolating USB storage devices inside disposable VMs before they mount.
-* **Custom Compilers** – Building toy C++ compilers that translate custom languages into native ARM64 assembly.
 * **Low-Level Utilities** – Rebuilding classic core utilities (like `cat`) in raw ARM assembly.
 * **Web & Automation** – Django backends, Go micro-services, and custom automation scripts.
 
